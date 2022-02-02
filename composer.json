@@ -3,8 +3,7 @@
     "description": "Symfony 2.8 + compatible bundle for fetching foreign exchange rates from openexchangerates.com. Symfony wrapper for `qbil-software/openexchangerates` package",
     "type": "symfony-bundle",
     "require": {
-        "guzzlehttp/guzzle": "^6.3",
-        "qbil-software/openexchangerates": "^1.0"
+        "qbil-software/openexchangerates": "dev-master as v1.1"
     },
     "autoload": {
         "psr-4": {
